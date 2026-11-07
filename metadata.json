@@ -1,0 +1,6 @@
+{
+  "name": "Fruit Catcher Arcade",
+  "description": "High-speed arcade fruit catcher game. Move the basket, catch delicious fruits, avoid bombs, earn coins, and conquer escalating levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
